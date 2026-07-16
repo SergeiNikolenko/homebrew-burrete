@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "burrete" do
-  version "1.0.26"
-  sha256 "b2fbc332b509098a01e7605e32b28cebeb6e65ba3f886407820f0db0b90a4174"
+  version "1.0.27"
+  sha256 "51f6503955ab44066c57e47c32a7f1d8b2896a8527bba63cea02edcf6cd9d470"
 
   url "https://github.com/SergeiNikolenko/Burrete/releases/download/v#{version}/Burrete-#{version}.zip"
   name "Burrete"
