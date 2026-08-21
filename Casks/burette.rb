@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "burette" do
-  version "2.3.7"
-  sha256 "d0386e3c57aa65d53feea548d2f57b7d812c94f0ba25d89877125718593a4f4e"
+  version "2.3.8"
+  sha256 "6e4af3e84ea083fb6ebb332e1d66e901c94dc213f75eff2529cc1399e3541f2a"
 
   url "https://github.com/SergeiNikolenko/Burette/releases/download/v#{version}/Burette-#{version}.zip"
   name "Burette"
